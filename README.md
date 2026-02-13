@@ -23,7 +23,6 @@ Bruce RF menu reference: https://github.com/BruceDevices/firmware/wiki/RF
 
 ![IMG_7791](https://github.com/user-attachments/assets/afad11bd-2ea5-41a2-bc68-7a08bf63b70c)
 
-- (Recommended) resistor divider for RX: **10kΩ + 20kΩ**
 - (Recommended) antennas: **~17.3 cm wire** for RX and TX
 
 ---
