@@ -1,4 +1,4 @@
-![IMG_7789](https://github.com/user-attachments/assets/9249525f-fcae-41a7-815c-0d1f252925b3)# M5StickC Plus2 + 433 MHz (XY-MK-5V RX + FS1000A TX) with Bruce
+# M5StickC Plus2 + 433 MHz (XY-MK-5V RX + FS1000A TX) with Bruce
 ## Pin assignment: TX = GPIO25, RX = GPIO26
 
 This setup uses **Bruce**’s built-in **RF** tab/menu. You’ll wire the modules to the ESP32 GPIOs and then set the pins inside Bruce:
