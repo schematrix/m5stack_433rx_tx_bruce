@@ -91,14 +91,4 @@ If using M5Burner, you can also restore stock firmware later:
 Bruce RF menu reference: https://github.com/BruceDevices/firmware/wiki/RF
 
 ---
-
-## 6) Troubleshooting checklist
-
-- ✅ Common **GND** shared between all modules and StickC Plus2
-- ✅ RX has **antenna**
-- ✅ RX DATA is **level-shifted** (recommended)
-- ✅ Correct pins set in Bruce (**TX 25 / RX 26**)
-- ✅ Stable 5V supply (weak 5V = noisy RX, poor TX range)
-
----
 If you tell me which physical connector/breakout you’re using on the StickC Plus2 (Grove header, hat, custom breakout), I can write an exact “wire-to-physical-pin” mapping as well.
